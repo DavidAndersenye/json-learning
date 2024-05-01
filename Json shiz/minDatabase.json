@@ -1,0 +1,61 @@
+{
+  "users": [
+    {
+      "firstName": "Tom",
+      "lastName": "Sunde",
+      "email": "tom@alf.no",
+      "age": "53",
+      "companyId": "2",
+      "id": 1
+    },
+    {
+      "firstName": "Henrik",
+      "lastName": "Ingebrigtsen",
+      "email": "henrik@team.no",
+      "age": "37",
+      "companyId": "1",
+      "id": 2
+    },
+    {
+      "firstName": "Jakob",
+      "lastName": "Ingebrigtsen",
+      "email": "jakob@team.no",
+      "age": "21",
+      "companyId": "1",
+      "id": 3
+    },
+    {
+      "firstName": "Alf",
+      "lastName": "Alfesen",
+      "email": "alf@alf.no",
+      "age": "23",
+      "companyId": "2",
+      "id": 5
+    },
+    {
+      "firstName": "Berit",
+      "lastName": "Burmester",
+      "email": "berit@alf.no",
+      "age": "19",
+      "companyId": "3",
+      "id": 6
+    }
+  ],
+  "companies": [
+    {
+      "id": "1",
+      "name": "Apple",
+      "description": "Apple Inc. is an american multinational technology company."
+    },
+    {
+      "id": "2",
+      "name": "Microsoft",
+      "description": "Microsoft is a technology company."
+    },
+    {
+      "id": "3",
+      "name": "Google",
+      "description": "Google was founded by Larry Paige and Sergey Brin while they were students at  Stanford University."
+    }
+  ]
+}
